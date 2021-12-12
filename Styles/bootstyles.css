@@ -1,0 +1,103 @@
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40pt;
+    text-align: center;
+    margin-top: 8px;
+            }
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18pt;
+    background-color:#d7dfe8 ;
+    text-align: center;
+    border: solid 2px #04448c ;
+    }
+
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 10pt;
+    text-align: center;
+
+}
+
+.Highlights {
+    color: rgb(70, 184, 35)
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+body {
+    background-color:  #b0bfcf;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.common {
+    background-color: #d7dfe8;
+    border: solid 2px white;
+    position: absolute;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+    text-align: center;
+    color: #04448c;
+}
+
+.body {
+    top: 134px;
+    bottom: 64px;
+    left: 100px;
+    right: 100px;
+    color: #04448c;
+
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  height:30px;
+  color: #04448c;
+  text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #04448c;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #d7dfe8;
+    text-align: center;
+    padding: 8px 70px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #90bde1;
+  }
+  .active {
+    background-color: #a1c42c;
+  }
+
+          
+
